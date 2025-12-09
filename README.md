@@ -1,3 +1,4 @@
+Kaggle dataset link - https://www.kaggle.com/datasets/podsyp/time-series-starter-dataset
 📈 SARIMA Time-Series Forecasting Project
 
 Forecasting monthly revenue using statistical modeling (SARIMAX), stationarity tests, differencing, and model comparison.
